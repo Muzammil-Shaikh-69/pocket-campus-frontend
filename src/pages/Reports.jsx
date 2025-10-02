@@ -98,7 +98,7 @@ export default function Reports() {
       {/* Header */}
       <div className="bg-gray-900 rounded-2xl p-8 text-white">
         <h1 className="text-3xl font-bold mb-2">Progress Reports</h1>
-        <p className="text-gray-300 text-lg">Track your study progress and achievements</p>
+        <p className="text-gray-300 text-lg">Monitor, Improve, Succeed</p>
       </div>
 
       {/* Stats Overview */}

@@ -38,7 +38,7 @@ export default function Dashboard() {
         <h1 className="text-3xl font-bold mb-2">
           Welcome{user ? `, ${user.name}` : ''}!
         </h1>
-        <p className="text-gray-300 text-lg">Here's your study progress overview</p>
+        <p className="text-gray-300 text-lg">Your Learning at a Glance.</p>
       </div>
 
       {/* Stats Cards */}
