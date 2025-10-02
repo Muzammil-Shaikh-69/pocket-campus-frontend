@@ -90,8 +90,8 @@ export default function Tasks() {
     <div className="space-y-8">
       {/* Header */}
       <div className="bg-black rounded-2xl p-8 text-white">
-        <h1 className="text-3xl font-bold mb-2">Task Management</h1>
-        <p className="text-gray-300 text-lg">Create, organize, and track your study tasks</p>
+        <h1 className="text-3xl font-bold mb-2">Transform chaos into productivity</h1>
+        <p className="text-gray-300 text-lg">manage your study tasks smartly</p>
       </div>
 
       {/* Task Form */}
