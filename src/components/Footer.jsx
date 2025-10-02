@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-sm text-white flex items-center justify-between">
         <div className="text-left">
           <p>© 2025 Pocket Campus</p>
-          <p className="mt-0.5">
+          {/* <p className="mt-0.5">
             Check out the source code on{" "}
             <a
               href="https://github.com/YourGitHubUsername/Pocket-Campus"
@@ -14,7 +14,7 @@ export default function Footer() {
             >
               GitHub
             </a>
-          </p>
+          </p> */}
         </div>
         <p className="text-right">
           Developed by <span className="font-semibold">Muzammil Shaikh</span>.
